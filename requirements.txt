@@ -1,0 +1,6 @@
+numpy>=1.26,<2.4
+pyglet>=2.1.13,<3
+PyOpenGL>=3.1.10
+networkx>=3.2
+trimesh>=4.11.3
+Pillow>=10
